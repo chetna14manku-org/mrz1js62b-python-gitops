@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mrz1js62b-python-repository
+spec:
+  url: https://github.com/chetna14manku-org/mrz1js62b-python
